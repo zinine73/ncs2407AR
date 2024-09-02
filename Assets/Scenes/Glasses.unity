@@ -429,6 +429,46 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6206005521247379538, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521247379538, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521247379538, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 522700251}
+    - target: {fileID: 6206005521247379538, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521247379538, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: DisplayGlass
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521247379538, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: GlassesCtrl, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521247379538, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: STAR
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521247379538, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 6206005521247379539, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
         type: 3}
       propertyPath: m_Sprite
@@ -565,20 +605,60 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6206005521583193443, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521583193443, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521583193443, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 522700251}
+    - target: {fileID: 6206005521583193443, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521583193443, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ChangeGlassColor
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521583193443, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: GlassesCtrl, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521583193443, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521583193443, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 6206005521583193444, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
         type: 3}
       propertyPath: m_Color.b
-      value: 0.06511307
+      value: 0.13020048
       objectReference: {fileID: 0}
     - target: {fileID: 6206005521583193444, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
         type: 3}
       propertyPath: m_Color.g
-      value: 0
+      value: 0.06941971
       objectReference: {fileID: 0}
     - target: {fileID: 6206005521583193444, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
         type: 3}
       propertyPath: m_Color.r
-      value: 1
+      value: 0.9811321
       objectReference: {fileID: 0}
     - target: {fileID: 6206005521602948445, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
         type: 3}
@@ -599,6 +679,46 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521602948446, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521602948446, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521602948446, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 522700251}
+    - target: {fileID: 6206005521602948446, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521602948446, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: DisplayGlass
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521602948446, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: GlassesCtrl, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521602948446, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: CAT
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521602948446, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 6206005521602948447, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
         type: 3}
@@ -641,6 +761,46 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6206005521853950639, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521853950639, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521853950639, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 522700251}
+    - target: {fileID: 6206005521853950639, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521853950639, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ChangeGlassColor
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521853950639, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: GlassesCtrl, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521853950639, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005521853950639, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 6206005522308777283, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -660,6 +820,46 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005522308777284, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005522308777284, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005522308777284, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 522700251}
+    - target: {fileID: 6206005522308777284, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005522308777284, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: DisplayGlass
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005522308777284, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: GlassesCtrl, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005522308777284, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: BAT
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005522308777284, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 6206005522308777285, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
         type: 3}
@@ -702,8 +902,72 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6206005522389524159, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005522389524159, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005522389524159, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 522700251}
+    - target: {fileID: 6206005522389524159, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005522389524159, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ChangeGlassColor
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005522389524159, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: GlassesCtrl, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005522389524159, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206005522389524159, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ccc0c063a6b6cb143b63b64a01a0a7b7, type: 3}
+--- !u!1 &522700246 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6206005521491851798, guid: ccc0c063a6b6cb143b63b64a01a0a7b7,
+    type: 3}
+  m_PrefabInstance: {fileID: 422351671}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &522700251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 522700246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f6ae7f602ead7344962b9934095ad82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UIGlassGroup: {fileID: 2002181393}
+  newMaterial:
+  - {fileID: 5561349426305759274, guid: fb8a0115d8814bd49b4609e9566545e8, type: 3}
+  - {fileID: 2100000, guid: e1e378d38fbcef44ebf481ad21ac3e84, type: 2}
+  - {fileID: 2100000, guid: f2f270dfa7ebca44b95d83c3969a9251, type: 2}
+  - {fileID: 2100000, guid: 4a47654590ed5644d83d106bcae0f91c, type: 2}
 --- !u!1 &1125729850
 GameObject:
   m_ObjectHideFlags: 0
@@ -826,6 +1090,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2002181393 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1670669045202856023, guid: 439c670d5f750ec488aa5cb4f76f4d1c,
+    type: 3}
+  m_PrefabInstance: {fileID: 561207209282215607}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &561207209282215607
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -841,7 +1111,7 @@ PrefabInstance:
     - target: {fileID: 1670669045202856023, guid: 439c670d5f750ec488aa5cb4f76f4d1c,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2239282423808484574, guid: 439c670d5f750ec488aa5cb4f76f4d1c,
         type: 3}
@@ -897,6 +1167,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2665509359782641751, guid: 439c670d5f750ec488aa5cb4f76f4d1c,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5435251488896612267, guid: 439c670d5f750ec488aa5cb4f76f4d1c,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6739051478360641916, guid: 439c670d5f750ec488aa5cb4f76f4d1c,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 439c670d5f750ec488aa5cb4f76f4d1c, type: 3}
