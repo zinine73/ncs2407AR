@@ -7,6 +7,7 @@ TagManager:
   - CAT
   - BAT
   - STAR
+  - FUSEBOX
   layers:
   - Default
   - TransparentFX
